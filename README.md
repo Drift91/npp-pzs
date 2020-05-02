@@ -1,0 +1,1 @@
+# notepad-plus-plus-pz-scripts-syntax-highlighting
